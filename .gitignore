@@ -1,0 +1,4 @@
+**/api/migrations
+**/api/data/.ipynb_checkpoints
+**/api/data/*csv
+db*
